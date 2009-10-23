@@ -18,7 +18,9 @@ README
 t/00_compile.t
 t/01_standard.t
 t/02_extends.t
+t/03_composite.t
 t/lib/People.pm
+t/lib/Suger/Mobility.pm
 t/lib/Suger/Profile.pm
 xt/97_podspell.t
 xt/98_perlcritic.t
